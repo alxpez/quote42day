@@ -1,2 +1,2 @@
-> The quality of a leader is reflected in the standards they set for themselves.
-  #### —Ray Kroc [:scroll:](undefined)
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+  #### —Rick Osborne [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/9)
