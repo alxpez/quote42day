@@ -1,2 +1,2 @@
-> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-  #### —Rick Osborne [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/9)
+> To hope means to be ready at every moment for that which is not yet born, and yet not become desperate if there is no birth in our lifetime.
+  #### —Erich Fromm [:scroll:](undefined)
