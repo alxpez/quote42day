@@ -1,2 +1,2 @@
-> Fun is to experience things you would not have been able to experience in any other setting.
-  #### —Mike Krzyzewski [:scroll:](undefined)
+> Of all the music that reached farthest into heaven, it is the beating of a loving heart.
+  #### —Henry Ward Beecher [:scroll:](undefined)
