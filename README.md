@@ -1,2 +1,2 @@
-> Of all the music that reached farthest into heaven, it is the beating of a loving heart.
-  #### —Henry Ward Beecher [:scroll:](undefined)
+> The poetry of a people comes from the deep recesses of the unconscious, the irrational and the collective body of our ancestral memories.
+  #### —Margaret Walker [:scroll:](undefined)
