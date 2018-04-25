@@ -1,2 +1,2 @@
-> Maybe someday you can accuse somebody of being a poseur by selling out and playing blues music, but that's just not going to happen in my lifetime.
-  #### —John Mayer [:scroll:](undefined)
+> It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.
+  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/15)
