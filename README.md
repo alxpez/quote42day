@@ -1,2 +1,2 @@
-> You should name a variable using the same care with which you name a first-born child.
-  #### —James O. Coplien [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/23)
+> We have by far the most expensive health system in the world. We spend 50 percent more per person than the next most costly nation. Americans spend more on health care than housing or food.
+  #### —Kathleen Sebelius [:scroll:](undefined)
