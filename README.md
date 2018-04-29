@@ -1,2 +1,2 @@
-> We have by far the most expensive health system in the world. We spend 50 percent more per person than the next most costly nation. Americans spend more on health care than housing or food.
-  #### —Kathleen Sebelius [:scroll:](undefined)
+> I was trying to uphold what I thought feminism was as best I could by supporting women, by trying to create an opportunity to get women to get together, play music together and celebrate the fact that we are having great success making music on our own and together.
+  #### —Sarah McLachlan [:scroll:](undefined)
