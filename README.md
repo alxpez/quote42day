@@ -1,2 +1,2 @@
-> I was trying to uphold what I thought feminism was as best I could by supporting women, by trying to create an opportunity to get women to get together, play music together and celebrate the fact that we are having great success making music on our own and together.
-  #### —Sarah McLachlan [:scroll:](undefined)
+> There's a lot of neuroscience now raising the question, 'Is all the intelligence in the human body in the brain?', and they're finding out that, no, it's not like that. The body has intelligence itself, and we're much more of an organic creature in that way.
+  #### —Joel Kinnaman [:scroll:](undefined)
