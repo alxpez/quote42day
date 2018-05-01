@@ -1,2 +1,2 @@
-> There's a lot of neuroscience now raising the question, 'Is all the intelligence in the human body in the brain?', and they're finding out that, no, it's not like that. The body has intelligence itself, and we're much more of an organic creature in that way.
-  #### —Joel Kinnaman [:scroll:](undefined)
+> There are only two kinds of programming languages: those people always bitch about and those nobody uses.
+  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/28)
