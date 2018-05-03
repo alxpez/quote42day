@@ -1,2 +1,2 @@
-> The majority does not rule in America, but the minority shouldn't hijack it. And it's because we're afraid. They have isolated us and made us feel as though we're alone. We're not.
-  #### —Glenn Beck [:scroll:](undefined)
+> They say that women talk too much. If you have worked in Congress you know that the filibuster was invented by men.
+  #### —Clare Boothe Luce [:scroll:](undefined)
