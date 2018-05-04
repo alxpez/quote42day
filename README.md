@@ -1,2 +1,2 @@
-> They say that women talk too much. If you have worked in Congress you know that the filibuster was invented by men.
-  #### —Clare Boothe Luce [:scroll:](undefined)
+> I've been experimenting more and more with LN2, liquid nitrogen. I've used it in battle on 'Iron Chef America,' but have also made some great ice creams at home for my family. Since it freezes basically on contact, you can have ice cream ready in mere minutes.
+  #### —Cat Cora [:scroll:](undefined)
