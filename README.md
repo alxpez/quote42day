@@ -1,2 +1,2 @@
-> I've been experimenting more and more with LN2, liquid nitrogen. I've used it in battle on 'Iron Chef America,' but have also made some great ice creams at home for my family. Since it freezes basically on contact, you can have ice cream ready in mere minutes.
-  #### —Cat Cora [:scroll:](undefined)
+> If you start any large theory, such as quantum mechanics, plate tectonics, evolution, it takes about 40 years for mainstream science to come around. Gaia has been going for only 30 years or so.
+  #### —James Lovelock [:scroll:](undefined)
