@@ -1,2 +1,2 @@
-> If Java had true garbage collection, most programs would delete themselves upon execution.
-  #### —Robert Sewell [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/41)
+> A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.
+  #### —Mitch Ratcliffe [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/13)
