@@ -1,2 +1,2 @@
-> Seek always to do some good, somewhere. Every man has to seek in his own way to realize his true worth. You must give some time to your fellow man. For remember, you don't live in a world all your own. Your brothers are here too.
-  #### —Albert Schweitzer [:scroll:](undefined)
+> Old age is always wakeful as if, the longer linked with life, the less man has to do with aught that looks like death.
+  #### —Herman Melville [:scroll:](undefined)
