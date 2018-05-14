@@ -1,2 +1,2 @@
-> Old age is always wakeful as if, the longer linked with life, the less man has to do with aught that looks like death.
-  #### —Herman Melville [:scroll:](undefined)
+> I found myself very lost after 'The Partridge Family,' and I lost my dad and I lost my manager, and I lived in a bubble, and it took me 15 years to get through that and a lot of psychotherapy, and I'm laughing about it now!
+  #### —David Cassidy [:scroll:](undefined)
