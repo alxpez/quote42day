@@ -1,2 +1,2 @@
-> I found myself very lost after 'The Partridge Family,' and I lost my dad and I lost my manager, and I lived in a bubble, and it took me 15 years to get through that and a lot of psychotherapy, and I'm laughing about it now!
-  #### —David Cassidy [:scroll:](undefined)
+> A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.
+  #### —Mitch Ratcliffe [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/13)
