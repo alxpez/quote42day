@@ -1,2 +1,2 @@
-> A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.
-  #### —Mitch Ratcliffe [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/13)
+> They took their meals together and it was remarked on such occasions, when the friendship of animals is put to a hard test, that they never quarrelled or disputed the possession of a favourite fruit with each other.
+  #### —Henry Walter Bates [:scroll:](undefined)
