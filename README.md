@@ -1,2 +1,2 @@
-> Ron Howard is as good a person as you could want to work with on film. He never lost his cool. He's the most easygoing, lovely man, but he's got this enormous intelligence and a wonderful humanity.
-  #### —Christine Baranski [:scroll:](undefined)
+> I felt alienated by the experience and decided to stay away from corporate employment.
+  #### —Lee Child [:scroll:](undefined)
