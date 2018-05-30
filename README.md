@@ -1,2 +1,2 @@
-> I felt alienated by the experience and decided to stay away from corporate employment.
-  #### —Lee Child [:scroll:](undefined)
+> Computers are like bikinis. They save people a lot of guesswork.
+  #### —Sam Ewing [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/33)
