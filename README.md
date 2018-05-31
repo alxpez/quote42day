@@ -1,2 +1,2 @@
-> Computers are like bikinis. They save people a lot of guesswork.
-  #### —Sam Ewing [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/33)
+> Worry does not empty tomorrow of its sorrow. It empties today of its strength.
+  #### —Corrie Ten Boom [:scroll:](undefined)
