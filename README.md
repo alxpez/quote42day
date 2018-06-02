@@ -1,2 +1,2 @@
-> In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.
-  #### —Jeff Atwood [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/42)
+> On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”
+  #### —Charles Babbage [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/8)
