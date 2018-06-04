@@ -1,2 +1,2 @@
-> Respect yourself if you would have others respect you.
-  #### —Baltasar Gracian [:scroll:](undefined)
+> His ignorance was as remarkable as his knowledge.
+  #### —Arthur Conan Doyle [:scroll:](undefined)
