@@ -1,2 +1,2 @@
-> All gods are homemade, and it is we who pull their strings, and so, give them the power to pull ours.
-  #### —Aldous Huxley [:scroll:](undefined)
+> Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.
+  #### —Fred Brooks [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/22)
