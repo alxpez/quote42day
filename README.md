@@ -1,2 +1,2 @@
-> The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
-  #### —Henry Petroski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/35)
+> Scientific research and other studies have demonstrated that arts education can enhance American students' math and language skills and improve test scores which in turn increase chances of higher education and good jobs in the future.
+  #### —Thad Cochran [:scroll:](undefined)
