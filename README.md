@@ -1,2 +1,2 @@
-> Scientific research and other studies have demonstrated that arts education can enhance American students' math and language skills and improve test scores which in turn increase chances of higher education and good jobs in the future.
-  #### —Thad Cochran [:scroll:](undefined)
+> I love deadlines. I like the whooshing sound they make as they fly by.
+  #### —Douglas Adams [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/19)
