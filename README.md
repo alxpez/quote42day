@@ -1,2 +1,2 @@
-> We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.
-  #### —C. A. R. Hoare [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/1)
+> Let us never negotiate out of fear. But let us never fear to negotiate.
+  #### —John F. Kennedy [:scroll:](undefined)
