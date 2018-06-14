@@ -1,2 +1,2 @@
-> As a father, you immediately become uncool, especially the older they get. The older you get, it's inevitable that, as cool as you think you are, you're probably just as lame in your kids' eyes.
-  #### —Mark Consuelos [:scroll:](undefined)
+> On the other hand, the waging of peace as a science, as an art, is in its infancy. But we can trace its growth, its steady progress, and the time will come when there will be particular individuals designated to assume responsibility for and leadership of this movement.
+  #### —Fredrik Bajer [:scroll:](undefined)
