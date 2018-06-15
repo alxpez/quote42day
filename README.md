@@ -1,2 +1,2 @@
-> On the other hand, the waging of peace as a science, as an art, is in its infancy. But we can trace its growth, its steady progress, and the time will come when there will be particular individuals designated to assume responsibility for and leadership of this movement.
-  #### —Fredrik Bajer [:scroll:](undefined)
+> PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.
+  #### —Jon Ribbens [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/7)
