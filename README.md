@@ -1,2 +1,2 @@
-> I want to be alone and work until the day my heads hits the drawing table and I'm dead. Kaput. I feel very much like I want to be with my brother and sister again. They're nowhere. I know they're nowhere and they don't exist, but if nowhere means that's where they are, that's where I want to be.
-  #### —Maurice Sendak [:scroll:](undefined)
+> Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.
+  #### —Albert Einstein [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/17)
