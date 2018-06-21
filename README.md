@@ -1,2 +1,2 @@
-> Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.
-  #### —Albert Einstein [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/17)
+> If you are worried about job security and do not have an adequate emergency fund (ideally eight months' worth of living expenses stashed away in a federally insured bank or credit union), you need to focus more on saving money than paying down the balance on your credit cards.
+  #### —Suze Orman [:scroll:](undefined)
