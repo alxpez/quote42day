@@ -1,2 +1,2 @@
-> Most of these people who are celebrities now don't do anything to deserve it, so by that fact alone, I don't want to be one.
-  #### —will.i.am [:scroll:](undefined)
+> It is necessary to the happiness of man that he be mentally faithful to himself. Infidelity does not consist in believing, or in disbelieving, it consists in professing to believe what he does not believe.
+  #### —Thomas Paine [:scroll:](undefined)
