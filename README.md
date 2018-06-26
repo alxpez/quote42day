@@ -1,2 +1,2 @@
-> It is necessary to the happiness of man that he be mentally faithful to himself. Infidelity does not consist in believing, or in disbelieving, it consists in professing to believe what he does not believe.
-  #### —Thomas Paine [:scroll:](undefined)
+> Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.
+  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/20)
