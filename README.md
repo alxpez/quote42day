@@ -1,2 +1,2 @@
-> I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.
-  #### —Larry DeLuca [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/37)
+> There are two ways of constructing a software design; one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+  #### —C. A. R. Hoare [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/24)
