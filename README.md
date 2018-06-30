@@ -1,2 +1,2 @@
-> The difference between theory and practice is that in theory, there is no difference between theory and practice.
-  #### —Richard Moore [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/30)
+> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
+  #### —Harriet Tubman [:scroll:](undefined)
