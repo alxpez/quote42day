@@ -1,2 +1,2 @@
-> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
-  #### —Harriet Tubman [:scroll:](undefined)
+> There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.
+  #### —Jeremy S. Anderson [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/34)
