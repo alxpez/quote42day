@@ -1,2 +1,2 @@
-> I remember how being young and black and gay and lonely felt. A lot of it was fine, feeling I had the truth and the light and the key, but a lot of it was purely hell.
-  #### —Audre Lorde [:scroll:](undefined)
+> I have often thought of it as one of the most barbarous customs in the world, considering us as a civilized and a Christian country, that we deny the advantages of learning to women.
+  #### —Daniel Defoe [:scroll:](undefined)
