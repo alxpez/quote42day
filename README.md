@@ -1,2 +1,2 @@
-> I have often thought of it as one of the most barbarous customs in the world, considering us as a civilized and a Christian country, that we deny the advantages of learning to women.
-  #### —Daniel Defoe [:scroll:](undefined)
+> Programming is like sex: one mistake and you’re providing support for a lifetime.
+  #### —Michael Sinz [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/29)
