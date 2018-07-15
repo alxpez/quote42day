@@ -1,2 +1,2 @@
-> Only people who have been allowed to practise freedom can have the grown-up look in their eyes.
-  #### —E. M. Forster [:scroll:](undefined)
+> You should name a variable using the same care with which you name a first-born child.
+  #### —James O. Coplien [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/23)
