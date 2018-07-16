@@ -1,2 +1,2 @@
-> You should name a variable using the same care with which you name a first-born child.
-  #### —James O. Coplien [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/23)
+> I'm not the girl who always has a boyfriend. I'm the girl who rarely has a boyfriend.
+  #### —Taylor Swift [:scroll:](undefined)
