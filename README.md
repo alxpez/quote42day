@@ -1,2 +1,2 @@
-> I'm not the girl who always has a boyfriend. I'm the girl who rarely has a boyfriend.
-  #### —Taylor Swift [:scroll:](undefined)
+> But having said that, there's also a sea change in attitude towards media.
+  #### —Robert McChesney [:scroll:](undefined)
