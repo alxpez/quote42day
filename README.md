@@ -1,2 +1,2 @@
-> But having said that, there's also a sea change in attitude towards media.
-  #### —Robert McChesney [:scroll:](undefined)
+> If we get the capabilities, NATO, along with the European Union, can do amazing things.
+  #### —Lord Robertson [:scroll:](undefined)
