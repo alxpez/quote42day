@@ -1,2 +1,2 @@
-> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
-  #### —Alan Kay [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/38)
+> Once you have mastered time, you will understand how true it is that most people overestimate what they can accomplish in a year - and underestimate what they can achieve in a decade!
+  #### —Tony Robbins [:scroll:](undefined)
