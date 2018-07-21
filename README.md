@@ -1,2 +1,2 @@
-> Once you have mastered time, you will understand how true it is that most people overestimate what they can accomplish in a year - and underestimate what they can achieve in a decade!
-  #### —Tony Robbins [:scroll:](undefined)
+> Proper school nutrition must be complemented by activities outside of the cafeteria. The decisions parents make to keep their kids healthy are critical in fighting this battle on the home front.
+  #### —Tom Vilsack [:scroll:](undefined)
