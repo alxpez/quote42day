@@ -1,2 +1,2 @@
-> A system that was originally designed to support the poorest in society is now trapping them in the very condition it was supposed to alleviate.
-  #### —Iain Duncan Smith [:scroll:](undefined)
+> Our forces saved the remnants of the Jewish people of Europe for a new life and a new hope in the reborn land of Israel. Along with all men of good will, I salute the young state and wish it well.
+  #### —Dwight D. Eisenhower [:scroll:](undefined)
