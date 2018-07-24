@@ -1,2 +1,2 @@
-> Our forces saved the remnants of the Jewish people of Europe for a new life and a new hope in the reborn land of Israel. Along with all men of good will, I salute the young state and wish it well.
-  #### —Dwight D. Eisenhower [:scroll:](undefined)
+> Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.
+  #### —Albert Einstein [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/17)
