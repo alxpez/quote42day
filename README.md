@@ -1,2 +1,2 @@
-> Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.
-  #### —Albert Einstein [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/17)
+> I'm a dad, and I no longer see a way for my kids to even inherit the money that I'm making, let alone go out there, have an idea, and create it in their own lifetime.
+  #### —Glenn Beck [:scroll:](undefined)
