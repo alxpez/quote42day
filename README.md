@@ -1,2 +1,2 @@
-> I'm a dad, and I no longer see a way for my kids to even inherit the money that I'm making, let alone go out there, have an idea, and create it in their own lifetime.
-  #### —Glenn Beck [:scroll:](undefined)
+> Failure is simply a few errors in judgment, repeated every day.
+  #### —Jim Rohn [:scroll:](undefined)
