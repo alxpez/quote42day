@@ -1,2 +1,2 @@
-> Failure is simply a few errors in judgment, repeated every day.
-  #### —Jim Rohn [:scroll:](undefined)
+> Right around the end of the fifties, college students and young people in general, began to realize that this music was almost like a history of our country - this music contained the real history of the people of this country.
+  #### —Jackson Browne [:scroll:](undefined)
