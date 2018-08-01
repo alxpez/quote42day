@@ -1,2 +1,2 @@
-> You have to learn and keep learning.
-  #### —Gil Scott-Heron [:scroll:](undefined)
+> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+  #### —Alan Kay [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/38)
