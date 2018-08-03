@@ -1,2 +1,2 @@
-> I hope to have communion with the people, that is the most important thing.
-  #### —Pope John Paul II [:scroll:](undefined)
+> XML is like violence – if it doesn’t solve your problems, you are not using enough of it.
+  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/21)
