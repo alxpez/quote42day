@@ -1,2 +1,2 @@
-> Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
-  #### —Bill Gates [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/6)
+> Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.
+  #### —Albert Einstein [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/17)
