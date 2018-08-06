@@ -1,2 +1,2 @@
-> Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.
-  #### —Albert Einstein [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/17)
+> A hatred of failure has always been part of my nature.
+  #### —Paul Getty [:scroll:](undefined)
