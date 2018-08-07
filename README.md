@@ -1,2 +1,2 @@
-> A hatred of failure has always been part of my nature.
-  #### —Paul Getty [:scroll:](undefined)
+> And my dad wanted me to play the trumpet because that's what he liked. His idol was Louis Armstrong. My dad thought my teeth came together in a way that was perfect for playing the trumpet.
+  #### —Jackson Browne [:scroll:](undefined)
