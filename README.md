@@ -1,2 +1,2 @@
-> And my dad wanted me to play the trumpet because that's what he liked. His idol was Louis Armstrong. My dad thought my teeth came together in a way that was perfect for playing the trumpet.
-  #### —Jackson Browne [:scroll:](undefined)
+> The biggest financial pitfall in life is divorce. And the biggest reason for divorce is marriage.
+  #### —Gene Simmons [:scroll:](undefined)
