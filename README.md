@@ -1,2 +1,2 @@
-> PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.
-  #### —Jon Ribbens [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/7)
+> To think the world therefore a general Bedlam, or place of madmen, and oneself a physician, is the most necessary point of present wisdom: an important imagination, and the way to happiness.
+  #### —Thomas Traherne [:scroll:](undefined)
