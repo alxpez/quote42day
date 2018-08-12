@@ -1,2 +1,2 @@
-> To think the world therefore a general Bedlam, or place of madmen, and oneself a physician, is the most necessary point of present wisdom: an important imagination, and the way to happiness.
-  #### —Thomas Traherne [:scroll:](undefined)
+> War would end if the dead could return.
+  #### —Stanley Baldwin [:scroll:](undefined)
