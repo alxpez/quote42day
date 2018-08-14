@@ -1,2 +1,2 @@
-> And in my own life, in my own small way, I've tried to give back to this country that has given me so much. That's why I left a job at a law firm for a career in public service, working to empower young people to volunteer in their communities. Because I believe that each of us - no matter what our age or background or walk of life - each of us has something to contribute to the life of this nation.
-  #### —Michelle Obama [:scroll:](undefined)
+> I can forgive, but I cannot forget, is only another way of saying, I will not forgive. Forgiveness ought to be like a cancelled note - torn in two, and burned up, so that it never can be shown against one.
+  #### —Henry Ward Beecher [:scroll:](undefined)
