@@ -1,2 +1,2 @@
-> I can forgive, but I cannot forget, is only another way of saying, I will not forgive. Forgiveness ought to be like a cancelled note - torn in two, and burned up, so that it never can be shown against one.
-  #### —Henry Ward Beecher [:scroll:](undefined)
+> Oh all the time when Victoria Wood and I did our series. There were people asking 'Can women be funny?' People still ask that. It's like asking: 'Can women breathe in and out?'
+  #### —Julie Walters [:scroll:](undefined)
