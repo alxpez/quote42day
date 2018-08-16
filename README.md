@@ -1,2 +1,2 @@
-> Oh all the time when Victoria Wood and I did our series. There were people asking 'Can women be funny?' People still ask that. It's like asking: 'Can women breathe in and out?'
-  #### —Julie Walters [:scroll:](undefined)
+> When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left, and could say, 'I used everything you gave me'.
+  #### —Erma Bombeck [:scroll:](undefined)
