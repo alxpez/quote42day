@@ -1,2 +1,2 @@
-> Perl – The only language that looks the same before and after RSA encryption.
-  #### —Keith Bostic [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/18)
+> The first lesson of economics is scarcity: there is never enough of anything to fully satisfy all those who want it. The first lesson of politics is to disregard the first lesson of economics.
+  #### —Thomas Sowell [:scroll:](undefined)
