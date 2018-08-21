@@ -1,2 +1,2 @@
-> The first lesson of economics is scarcity: there is never enough of anything to fully satisfy all those who want it. The first lesson of politics is to disregard the first lesson of economics.
-  #### —Thomas Sowell [:scroll:](undefined)
+> It always takes longer than you expect, even when you take into account Hofstadter’s Law.
+  #### —Hofstadter’s Law [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/3)
