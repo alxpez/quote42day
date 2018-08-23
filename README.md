@@ -1,2 +1,2 @@
-> I'd hesitated to have a wedding because my gay and lesbian friends don't have that right.
-  #### —Kathy Najimy [:scroll:](undefined)
+> One must be a god to be able to tell successes from failures without making a mistake.
+  #### —Anton Chekhov [:scroll:](undefined)
