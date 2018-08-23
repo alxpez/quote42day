@@ -1,2 +1,2 @@
-> One must be a god to be able to tell successes from failures without making a mistake.
-  #### —Anton Chekhov [:scroll:](undefined)
+> I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.
+  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/12)
