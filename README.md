@@ -1,2 +1,2 @@
-> I've got a book of poetry by the bed, one of these big collections that goes back to the Greeks and Romans.
-  #### —Martin C. Smith [:scroll:](undefined)
+> And I hope America will realise, as the only superpower now, it really must use its power in a way that's going to build up the world, and to support the United Nations.
+  #### —George Carey [:scroll:](undefined)
