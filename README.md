@@ -1,2 +1,2 @@
-> And I hope America will realise, as the only superpower now, it really must use its power in a way that's going to build up the world, and to support the United Nations.
-  #### —George Carey [:scroll:](undefined)
+> QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
+  #### —Bill Sempf [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/44)
