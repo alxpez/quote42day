@@ -1,2 +1,2 @@
-> We know about as much about software quality problems as they knew about the Black Plague in the 1600s. We’ve seen the victims’ agonies and helped burn the corpses. We don’t know what causes it; we don’t really know if there is only one disease. We just suffer — and keep pouring our sewage into our water supply.
-  #### —Tom Van Vleck [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/26)
+> You do not know our culture, our ethics, or the unwritten codes that already provide our society more order than could be obtained by any of your impositions.
+  #### —John Perry Barlow [:scroll:](undefined)
