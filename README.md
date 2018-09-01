@@ -1,2 +1,2 @@
-> You do not know our culture, our ethics, or the unwritten codes that already provide our society more order than could be obtained by any of your impositions.
-  #### —John Perry Barlow [:scroll:](undefined)
+> Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.
+  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/20)
