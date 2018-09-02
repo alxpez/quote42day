@@ -1,2 +1,2 @@
-> Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.
-  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/20)
+> The very contradictions in my life are in some ways signs of God's mercy to me.
+  #### —Thomas Merton [:scroll:](undefined)
