@@ -1,2 +1,2 @@
-> The very contradictions in my life are in some ways signs of God's mercy to me.
-  #### —Thomas Merton [:scroll:](undefined)
+> You can safely assume that you've created God in your own image when it turns out that God hates all the same people you do.
+  #### —Anne Lamott [:scroll:](undefined)
