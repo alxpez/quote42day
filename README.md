@@ -1,2 +1,2 @@
-> You can safely assume that you've created God in your own image when it turns out that God hates all the same people you do.
-  #### —Anne Lamott [:scroll:](undefined)
+> Life and death have been lacking in my life.
+  #### —Jorge Luis Borges [:scroll:](undefined)
