@@ -1,2 +1,2 @@
-> Life and death have been lacking in my life.
-  #### —Jorge Luis Borges [:scroll:](undefined)
+> Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.
+  #### —Rich Cook [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/10)
