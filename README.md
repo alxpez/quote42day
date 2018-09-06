@@ -1,2 +1,2 @@
-> Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.
-  #### —Rich Cook [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/10)
+> You know, rock stardom... I have a hard time discussing that because I don't really accept it. It's not really that tangible. What's really bizarre is how it's used as a thing - you know, 'He's the rock star of politics,' 'He's the rock star of quarterbacks' - like it's the greatest thing in the world.
+  #### —Eddie Vedder [:scroll:](undefined)
