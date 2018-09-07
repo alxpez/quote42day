@@ -1,2 +1,2 @@
-> You know, rock stardom... I have a hard time discussing that because I don't really accept it. It's not really that tangible. What's really bizarre is how it's used as a thing - you know, 'He's the rock star of politics,' 'He's the rock star of quarterbacks' - like it's the greatest thing in the world.
-  #### —Eddie Vedder [:scroll:](undefined)
+> Acting is something I love. It's a great craft that I have a lot of respect for. But I don't think it's any greater challenge than teaching 8-year-olds or any other career. In my life, I try not to make it more important than it is and I just hope that rubs off on the people around me.
+  #### —Hugh Jackman [:scroll:](undefined)
