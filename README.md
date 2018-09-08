@@ -1,2 +1,2 @@
-> Acting is something I love. It's a great craft that I have a lot of respect for. But I don't think it's any greater challenge than teaching 8-year-olds or any other career. In my life, I try not to make it more important than it is and I just hope that rubs off on the people around me.
-  #### —Hugh Jackman [:scroll:](undefined)
+> As you look back at your life, there are just a million different things that have happened, just in the right way, to allow you to make your dreams come true. And you know, someone has all that under control.
+  #### —Michael P. Anderson [:scroll:](undefined)
