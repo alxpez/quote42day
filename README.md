@@ -1,2 +1,2 @@
-> As you look back at your life, there are just a million different things that have happened, just in the right way, to allow you to make your dreams come true. And you know, someone has all that under control.
-  #### —Michael P. Anderson [:scroll:](undefined)
+> Growing hemp as nature designed it is vital to our urgent need to reduce greenhouse gases and ensure the survival of our planet.
+  #### —Jack Herer [:scroll:](undefined)
