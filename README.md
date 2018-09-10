@@ -1,2 +1,2 @@
-> Growing hemp as nature designed it is vital to our urgent need to reduce greenhouse gases and ensure the survival of our planet.
-  #### —Jack Herer [:scroll:](undefined)
+> Maybe a person's time would be as well spent raising food as raising money to buy food.
+  #### —Frank A. Clark [:scroll:](undefined)
