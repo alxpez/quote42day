@@ -1,2 +1,2 @@
-> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
-  #### —Brian Kernighan [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/5)
+> It becomes a giant's task to compute the result when the effect of cross seas, wind at all angles and ever varying force, arched surfaces, head resistance, ratio of weight to area, and the intelligence of the guiding power crop up.
+  #### —Lawrence Hargrave [:scroll:](undefined)
