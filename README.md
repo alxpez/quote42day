@@ -1,2 +1,2 @@
-> Each particular society begins to feel its strength, whence arises a state of war between different nations.
-  #### —Charles de Secondat [:scroll:](undefined)
+> Walking on water and developing software from a specification are easy if both are frozen.
+  #### —Edward V Berard [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/2)
