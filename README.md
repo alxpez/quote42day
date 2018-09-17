@@ -1,2 +1,2 @@
-> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-  #### —Rick Osborne [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/9)
+> I very much dislike the intolerance and moralism of many Christians, and feel more sympathy with Honest Doubters than with them.
+  #### —A. N. Wilson [:scroll:](undefined)
