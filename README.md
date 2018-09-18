@@ -1,2 +1,2 @@
-> I very much dislike the intolerance and moralism of many Christians, and feel more sympathy with Honest Doubters than with them.
-  #### —A. N. Wilson [:scroll:](undefined)
+> In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.
+  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/39)
