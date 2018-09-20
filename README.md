@@ -1,2 +1,2 @@
-> Many museums are drawing audiences with art that is ostensibly more entertaining than stuff that just sits and invites contemplation. Interactivity, gizmos, eating, hanging out, things that make noise - all are now the norm, often edging out much else.
-  #### —Jerry Saltz [:scroll:](undefined)
+> In those days, boxing was very glamorous and romantic. You listened to fights on the radio, and a good announcer made it seem like a contest between gladiators.
+  #### —Joseph Barbera [:scroll:](undefined)
