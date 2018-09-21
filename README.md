@@ -1,2 +1,2 @@
-> In those days, boxing was very glamorous and romantic. You listened to fights on the radio, and a good announcer made it seem like a contest between gladiators.
-  #### —Joseph Barbera [:scroll:](undefined)
+> If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/14)
