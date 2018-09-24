@@ -1,2 +1,2 @@
-> A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.
-  #### —Mitch Ratcliffe [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/13)
+> I can't travel without Sudoku.
+  #### —Robert Ballard [:scroll:](undefined)
