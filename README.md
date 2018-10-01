@@ -1,2 +1,2 @@
-> PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.
-  #### —Jon Ribbens [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/7)
+> Experts tell us that 90% of all brain development occurs by the age of five. If we don't begin thinking about education in the early years, our children are at risk of falling behind by the time they start Kindergarten.
+  #### —Robert. L. Ehrlich [:scroll:](undefined)
