@@ -1,2 +1,2 @@
-> Experts tell us that 90% of all brain development occurs by the age of five. If we don't begin thinking about education in the early years, our children are at risk of falling behind by the time they start Kindergarten.
-  #### —Robert. L. Ehrlich [:scroll:](undefined)
+> If you don't have a valentine, hang out with your girlfriends, don't go looking for someone. When it's right, they'll come to you.
+  #### —Carmen Electra [:scroll:](undefined)
