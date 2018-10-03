@@ -1,2 +1,2 @@
-> If you don't have a valentine, hang out with your girlfriends, don't go looking for someone. When it's right, they'll come to you.
-  #### —Carmen Electra [:scroll:](undefined)
+> Money spent on carbon cuts is money we can't use for effective investments in food aid, micronutrients, HIV/AIDS prevention, health and education infrastructure, and clean water and sanitation.
+  #### —Bjorn Lomborg [:scroll:](undefined)
