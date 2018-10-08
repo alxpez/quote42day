@@ -1,2 +1,2 @@
-> If debugging is the process of removing software bugs, then programming must be the process of putting them in.
-  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/14)
+> It has never been, and never will be easy work! But the road that is built in hope is more pleasant to the traveler than the road built in despair, even though they both lead to the same destination.
+  #### —Marion Zimmer Bradley [:scroll:](undefined)
