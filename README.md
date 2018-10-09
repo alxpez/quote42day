@@ -1,2 +1,2 @@
-> It has never been, and never will be easy work! But the road that is built in hope is more pleasant to the traveler than the road built in despair, even though they both lead to the same destination.
-  #### —Marion Zimmer Bradley [:scroll:](undefined)
+> When you're surrounded by all these people, it can be even lonelier than when you're by yourself. You can be in a huge crowd, but if you don't feel like you can trust anybody or talk to anybody, you feel like you're really alone.
+  #### —Fiona Apple [:scroll:](undefined)
