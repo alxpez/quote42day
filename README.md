@@ -1,2 +1,2 @@
-> I realised I could run after finding out that my dad used to run and it gave me the morale that if he did it then maybe I could also run.
-  #### —David Rudisha [:scroll:](undefined)
+> I think feminism's a bit misinterpreted. It was about casting off all gender roles. There's nothing wrong with a man holding a door open for a girl. But we sort of threw away all the rules, so everybody's confused. And dating becomes a sloppy, uncomfortable, unpleasant thing.
+  #### —Zosia Mamet [:scroll:](undefined)
