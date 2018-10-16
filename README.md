@@ -1,2 +1,2 @@
-> I think feminism's a bit misinterpreted. It was about casting off all gender roles. There's nothing wrong with a man holding a door open for a girl. But we sort of threw away all the rules, so everybody's confused. And dating becomes a sloppy, uncomfortable, unpleasant thing.
-  #### —Zosia Mamet [:scroll:](undefined)
+> The whole world loves American movies, blue jeans, jazz and rock and roll. It is probably a better way to get to know our country than by what politicians or airline commercials represent.
+  #### —Billy Joel [:scroll:](undefined)
