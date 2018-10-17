@@ -1,2 +1,2 @@
-> The whole world loves American movies, blue jeans, jazz and rock and roll. It is probably a better way to get to know our country than by what politicians or airline commercials represent.
-  #### —Billy Joel [:scroll:](undefined)
+> Of all that is written, I love only what a person has written with his own blood.
+  #### —Friedrich Nietzsche [:scroll:](undefined)
