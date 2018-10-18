@@ -1,2 +1,2 @@
-> Of all that is written, I love only what a person has written with his own blood.
-  #### —Friedrich Nietzsche [:scroll:](undefined)
+> You should name a variable using the same care with which you name a first-born child.
+  #### —James O. Coplien [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/23)
