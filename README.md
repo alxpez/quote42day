@@ -1,2 +1,2 @@
-> You should name a variable using the same care with which you name a first-born child.
-  #### —James O. Coplien [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/23)
+> There are two ways of constructing a software design; one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+  #### —C. A. R. Hoare [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/24)
