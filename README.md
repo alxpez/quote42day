@@ -1,2 +1,2 @@
-> There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.
-  #### —Jeremy S. Anderson [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/34)
+> In this age of media and Internet access, we are much more talkative than ever before.
+  #### —David Duchovny [:scroll:](undefined)
