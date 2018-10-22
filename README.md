@@ -1,2 +1,2 @@
-> In this age of media and Internet access, we are much more talkative than ever before.
-  #### —David Duchovny [:scroll:](undefined)
+> If we take the generally accepted definition of bravery as a quality which knows no fear, I have never seen a brave man. All men are frightened. The more intelligent they are, the more they are frightened.
+  #### —George S. Patton [:scroll:](undefined)
