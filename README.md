@@ -1,2 +1,2 @@
-> My dad is a nurse midwife, one of about only 50 male midwives in the U.S., I think.
-  #### —Matthew Morrison [:scroll:](undefined)
+> In theory, theory and practice are the same. In practice, they’re not.
+  #### —Yogi Berra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/16)
