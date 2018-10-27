@@ -1,2 +1,2 @@
-> XML is like violence – if it doesn’t solve your problems, you are not using enough of it.
-  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/21)
+> A policy is a temporary creed liable to be changed, but while it holds good it has got to be pursued with apostolic zeal.
+  #### —Mahatma Gandhi [:scroll:](undefined)
