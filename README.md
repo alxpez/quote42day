@@ -1,2 +1,2 @@
-> A policy is a temporary creed liable to be changed, but while it holds good it has got to be pursued with apostolic zeal.
-  #### —Mahatma Gandhi [:scroll:](undefined)
+> For me, and I suspect for lots of other people too, bad things actually sometimes make you think more about faith and the fact that you're not facing these things on your own.
+  #### —David Cameron [:scroll:](undefined)
