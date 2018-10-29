@@ -1,2 +1,2 @@
-> For me, and I suspect for lots of other people too, bad things actually sometimes make you think more about faith and the fact that you're not facing these things on your own.
-  #### —David Cameron [:scroll:](undefined)
+> Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.
+  #### —N.J. Rubenking [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/25)
