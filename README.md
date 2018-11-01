@@ -1,2 +1,2 @@
-> Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.
-  #### —Fred Brooks [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/22)
+> I loved the material when I first read it, and the experience of making the film was a great one. So when we came around to complete the trilogy, I just signed on board without even reading the scripts because the experience of the first film was so good.
+  #### —Keanu Reeves [:scroll:](undefined)
