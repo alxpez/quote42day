@@ -1,2 +1,2 @@
-> I loved the material when I first read it, and the experience of making the film was a great one. So when we came around to complete the trilogy, I just signed on board without even reading the scripts because the experience of the first film was so good.
-  #### —Keanu Reeves [:scroll:](undefined)
+> The function of prayer is not to influence God, but rather to change the nature of the one who prays.
+  #### —Soren Kierkegaard [:scroll:](undefined)
