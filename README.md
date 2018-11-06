@@ -1,2 +1,2 @@
-> The function of prayer is not to influence God, but rather to change the nature of the one who prays.
-  #### —Soren Kierkegaard [:scroll:](undefined)
+> There are amazingly wonderful people in all walks of life some familiar to us and others not. Stretch yourself and really get to know people. People are in many ways one of our greatest treasures.
+  #### —Bryant H. McGill [:scroll:](undefined)
