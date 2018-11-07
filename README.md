@@ -1,2 +1,2 @@
-> There are amazingly wonderful people in all walks of life some familiar to us and others not. Stretch yourself and really get to know people. People are in many ways one of our greatest treasures.
-  #### —Bryant H. McGill [:scroll:](undefined)
+> There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.
+  #### —Jeremy S. Anderson [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/34)
