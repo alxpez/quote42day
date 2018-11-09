@@ -1,2 +1,2 @@
-> It always takes longer than you expect, even when you take into account Hofstadter’s Law.
-  #### —Hofstadter’s Law [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/3)
+> QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
+  #### —Bill Sempf [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/44)
