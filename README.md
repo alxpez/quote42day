@@ -1,2 +1,2 @@
-> Existence is a strange bargain. Life owes us little we owe it everything. The only true happiness comes from squandering ourselves for a purpose.
-  #### —William Cowper [:scroll:](undefined)
+> I should have no objection to go over the same life from its beginning to the end: requesting only the advantage authors have, of correcting in a second edition the faults of the first.
+  #### —Benjamin Franklin [:scroll:](undefined)
