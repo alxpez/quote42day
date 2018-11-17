@@ -1,2 +1,2 @@
-> Linux is only free if your time has no value.
-  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/32)
+> I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.
+  #### —Larry DeLuca [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/37)
