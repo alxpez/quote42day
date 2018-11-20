@@ -1,2 +1,2 @@
-> A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
-  #### —George Bernard Shaw [:scroll:](undefined)
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+  #### —Rick Osborne [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/9)
