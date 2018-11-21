@@ -1,2 +1,2 @@
-> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-  #### —Rick Osborne [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/9)
+> I understand that in these difficult economic times, the potential for any additional expense is not welcomed by American businesses. But in the long run, the health insurance reform law promises to cut health-care costs for U.S. businesses, not expand them.
+  #### —Gary Locke [:scroll:](undefined)
