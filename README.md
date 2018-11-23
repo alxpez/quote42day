@@ -1,2 +1,2 @@
-> This is a wonderful way to celebrate an 80th birthday... I wanted to be 65 again, but they wouldn't let me - Homeland Security.
-  #### —Art Buchwald [:scroll:](undefined)
+> However painful the process of leaving home, for parents and for children, the really frightening thing for both would be the prospect of the child never leaving home.
+  #### —Robert Neelly Bellah [:scroll:](undefined)
