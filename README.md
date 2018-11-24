@@ -1,2 +1,2 @@
-> However painful the process of leaving home, for parents and for children, the really frightening thing for both would be the prospect of the child never leaving home.
-  #### —Robert Neelly Bellah [:scroll:](undefined)
+> From reading over the notes for each session it was apparent that there had been improvement by more or less regular steps from almost complete terror at sight of the rabbit to a completely positive response with no signs of disturbance.
+  #### —Mary C. Jones [:scroll:](undefined)
