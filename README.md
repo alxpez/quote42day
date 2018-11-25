@@ -1,2 +1,2 @@
-> From reading over the notes for each session it was apparent that there had been improvement by more or less regular steps from almost complete terror at sight of the rabbit to a completely positive response with no signs of disturbance.
-  #### —Mary C. Jones [:scroll:](undefined)
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+  #### —Rick Osborne [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/9)
