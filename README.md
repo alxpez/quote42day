@@ -1,2 +1,2 @@
-> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-  #### —Rick Osborne [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/9)
+> I love deadlines. I like the whooshing sound they make as they fly by.
+  #### —Douglas Adams [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/19)
