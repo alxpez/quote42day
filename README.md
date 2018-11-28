@@ -1,2 +1,2 @@
-> Computers are like bikinis. They save people a lot of guesswork.
-  #### —Sam Ewing [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/33)
+> C++ : Where friends have access to your private members.
+  #### —Gavin Russell Baker [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/40)
