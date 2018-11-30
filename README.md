@@ -1,2 +1,2 @@
-> In theory, theory and practice are the same. In practice, they’re not.
-  #### —Yogi Berra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/16)
+> I went from 118 pounds to 135 pounds in a few months. But, I still didn't know anything about food.
+  #### —Warren Cuccurullo [:scroll:](undefined)
