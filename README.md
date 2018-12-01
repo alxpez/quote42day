@@ -1,2 +1,2 @@
-> I went from 118 pounds to 135 pounds in a few months. But, I still didn't know anything about food.
-  #### —Warren Cuccurullo [:scroll:](undefined)
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+  #### —Rick Osborne [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/9)
