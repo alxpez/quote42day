@@ -1,2 +1,2 @@
-> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-  #### —Rick Osborne [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/9)
+> I'll give up this sort of touring madness certainly, but music-everything is based on music. No, I'll never stop my music.
+  #### —George Harrison [:scroll:](undefined)
