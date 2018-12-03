@@ -1,2 +1,2 @@
-> I'll give up this sort of touring madness certainly, but music-everything is based on music. No, I'll never stop my music.
-  #### —George Harrison [:scroll:](undefined)
+> If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/14)
