@@ -1,2 +1,2 @@
-> The man who interprets Nature is always held in great honor.
-  #### —Zora Neale Hurston [:scroll:](undefined)
+> Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
+  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/4)
