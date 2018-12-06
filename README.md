@@ -1,2 +1,2 @@
-> Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
-  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/4)
+> We know about as much about software quality problems as they knew about the Black Plague in the 1600s. We’ve seen the victims’ agonies and helped burn the corpses. We don’t know what causes it; we don’t really know if there is only one disease. We just suffer — and keep pouring our sewage into our water supply.
+  #### —Tom Van Vleck [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/26)
