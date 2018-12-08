@@ -1,2 +1,2 @@
-> I'd like to see the health care professionals making decisions, not some bureaucrat in Indianapolis working for an insurance company.
-  #### —Charles Schumer [:scroll:](undefined)
+> Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+  #### —Bill Gates [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/6)
