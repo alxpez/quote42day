@@ -1,2 +1,2 @@
-> Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
-  #### —Bill Gates [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/6)
+> PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.
+  #### —Jon Ribbens [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/7)
