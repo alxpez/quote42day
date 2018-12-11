@@ -1,2 +1,2 @@
-> A truly great book should be read in youth, again in maturity and once more in old age, as a fine building should be seen by morning light, at noon and by moonlight.
-  #### —Robertson Davies [:scroll:](undefined)
+> No man but a blockhead ever wrote except for money.
+  #### —Samuel Johnson [:scroll:](undefined)
