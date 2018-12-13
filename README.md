@@ -1,2 +1,2 @@
-> Beware of bugs in the above code; I have only proved it correct, not tried it. 
-  #### —Donald Knuth [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/27)
+> Stupidity is also a gift of God, but one mustn't misuse it.
+  #### —Pope John Paul II [:scroll:](undefined)
