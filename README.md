@@ -1,2 +1,2 @@
-> Stupidity is also a gift of God, but one mustn't misuse it.
-  #### —Pope John Paul II [:scroll:](undefined)
+> Programming is like sex: one mistake and you’re providing support for a lifetime.
+  #### —Michael Sinz [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/29)
