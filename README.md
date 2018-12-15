@@ -1,2 +1,2 @@
-> Programming is like sex: one mistake and you’re providing support for a lifetime.
-  #### —Michael Sinz [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/29)
+> Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+  #### —Bill Gates [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/6)
