@@ -1,2 +1,2 @@
-> XML is like violence – if it doesn’t solve your problems, you are not using enough of it.
-  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/21)
+> Be happy. It's one way of being wise.
+  #### —Sidonie Gabrielle Colette [:scroll:](undefined)
