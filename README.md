@@ -1,2 +1,2 @@
-> Be happy. It's one way of being wise.
-  #### —Sidonie Gabrielle Colette [:scroll:](undefined)
+> It the British System is the most gigantic system of slavery the world has yet seen, and therefore it is that freedom gradually disappears from every country over which England is enabled to obtain control.
+  #### —Henry Charles Carey [:scroll:](undefined)
