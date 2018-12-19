@@ -1,2 +1,2 @@
-> It the British System is the most gigantic system of slavery the world has yet seen, and therefore it is that freedom gradually disappears from every country over which England is enabled to obtain control.
-  #### —Henry Charles Carey [:scroll:](undefined)
+> Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.
+  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/20)
