@@ -1,2 +1,2 @@
-> The attitude of physiological psychology to sensations and feelings, considered as psychical elements, is, naturally, the attitude of psychology at large.
-  #### —Wilhelm Wundt [:scroll:](undefined)
+> Jesus Christ is a prince of peace. He told us to live in peace. He told us to love our enemies. He told us to do good to them that spitefully use us.
+  #### —Pat Robertson [:scroll:](undefined)
