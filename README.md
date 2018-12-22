@@ -1,2 +1,2 @@
-> Jesus Christ is a prince of peace. He told us to live in peace. He told us to love our enemies. He told us to do good to them that spitefully use us.
-  #### —Pat Robertson [:scroll:](undefined)
+> No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+  #### —Mark Gibbs [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/36)
