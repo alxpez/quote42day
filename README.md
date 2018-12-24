@@ -1,2 +1,2 @@
-> Kids are finding out about the potential for discovery online from other sources many of them have computers at home, for instance, or their friends have them.
-  #### —Daniel Greenberg [:scroll:](undefined)
+> If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/14)
