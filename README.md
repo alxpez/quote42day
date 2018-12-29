@@ -1,2 +1,2 @@
-> Perl – The only language that looks the same before and after RSA encryption.
-  #### —Keith Bostic [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/18)
+> There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors.
+  #### —Phil Karlton [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/43)
