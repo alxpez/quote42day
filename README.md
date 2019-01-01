@@ -1,2 +1,2 @@
-> The difference between theory and practice is that in theory, there is no difference between theory and practice.
-  #### —Richard Moore [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/30)
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+  #### —Rick Osborne [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/9)
