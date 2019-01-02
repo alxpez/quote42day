@@ -1,2 +1,2 @@
-> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-  #### —Rick Osborne [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/9)
+> Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
+  #### —Dick Brandon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/31)
