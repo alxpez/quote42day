@@ -1,2 +1,2 @@
-> Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
-  #### —Dick Brandon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/31)
+> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+  #### —Brian Kernighan [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/5)
