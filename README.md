@@ -1,2 +1,2 @@
-> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
-  #### —Brian Kernighan [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/5)
+> We know about as much about software quality problems as they knew about the Black Plague in the 1600s. We’ve seen the victims’ agonies and helped burn the corpses. We don’t know what causes it; we don’t really know if there is only one disease. We just suffer — and keep pouring our sewage into our water supply.
+  #### —Tom Van Vleck [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/26)
