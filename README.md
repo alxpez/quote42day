@@ -1,2 +1,2 @@
-> Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
-  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/4)
+> In theory, theory and practice are the same. In practice, they’re not.
+  #### —Yogi Berra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/16)
