@@ -1,2 +1,2 @@
-> XML is like violence – if it doesn’t solve your problems, you are not using enough of it.
-  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/21)
+> In theory, theory and practice are the same. In practice, they’re not.
+  #### —Yogi Berra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/16)
