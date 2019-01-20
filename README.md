@@ -1,2 +1,2 @@
-> C++ : Where friends have access to your private members.
-  #### —Gavin Russell Baker [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/40)
+> Linux is only free if your time has no value.
+  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/32)
