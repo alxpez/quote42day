@@ -1,2 +1,2 @@
-> Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
-  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/4)
+> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+  #### —Alan Kay [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/38)
