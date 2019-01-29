@@ -1,2 +1,2 @@
-> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
-  #### —Brian Kernighan [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/5)
+> We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.
+  #### —C. A. R. Hoare [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/1)
