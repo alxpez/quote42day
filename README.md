@@ -1,2 +1,2 @@
-> We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.
-  #### —C. A. R. Hoare [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/1)
+> PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.
+  #### —Jon Ribbens [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/7)
