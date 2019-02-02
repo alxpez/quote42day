@@ -1,2 +1,2 @@
-> There are only two kinds of programming languages: those people always bitch about and those nobody uses.
-  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/28)
+> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+  #### —Brian Kernighan [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/5)
