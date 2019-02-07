@@ -1,2 +1,2 @@
-> I don’t care if it works on your machine! We are not shipping your machine!
-  #### —Ovidiu Platon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/11)
+> The difference between theory and practice is that in theory, there is no difference between theory and practice.
+  #### —Richard Moore [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/30)
