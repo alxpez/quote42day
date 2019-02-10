@@ -1,2 +1,2 @@
-> It always takes longer than you expect, even when you take into account Hofstadter’s Law.
-  #### —Hofstadter’s Law [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/3)
+> Walking on water and developing software from a specification are easy if both are frozen.
+  #### —Edward V Berard [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/2)
