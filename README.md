@@ -1,2 +1,2 @@
-> Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.
-  #### —Albert Einstein [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/17)
+> XML is like violence – if it doesn’t solve your problems, you are not using enough of it.
+  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/21)
