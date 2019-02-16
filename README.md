@@ -1,2 +1,2 @@
-> XML is like violence – if it doesn’t solve your problems, you are not using enough of it.
-  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/21)
+> Programming is like sex: one mistake and you’re providing support for a lifetime.
+  #### —Michael Sinz [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/29)
