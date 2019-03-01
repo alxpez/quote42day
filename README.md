@@ -1,2 +1,2 @@
-> The difference between theory and practice is that in theory, there is no difference between theory and practice.
-  #### —Richard Moore [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/30)
+> C++ : Where friends have access to your private members.
+  #### —Gavin Russell Baker [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/40)
