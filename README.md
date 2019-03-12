@@ -1,2 +1,2 @@
-> In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.
-  #### —Jeff Atwood [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/42)
+> You should name a variable using the same care with which you name a first-born child.
+  #### —James O. Coplien [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/23)
