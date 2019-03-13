@@ -1,2 +1,2 @@
-> You should name a variable using the same care with which you name a first-born child.
-  #### —James O. Coplien [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/23)
+> If Java had true garbage collection, most programs would delete themselves upon execution.
+  #### —Robert Sewell [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/41)
