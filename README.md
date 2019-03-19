@@ -1,2 +1,2 @@
-> I don’t care if it works on your machine! We are not shipping your machine!
-  #### —Ovidiu Platon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/11)
+> We know about as much about software quality problems as they knew about the Black Plague in the 1600s. We’ve seen the victims’ agonies and helped burn the corpses. We don’t know what causes it; we don’t really know if there is only one disease. We just suffer — and keep pouring our sewage into our water supply.
+  #### —Tom Van Vleck [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/26)
