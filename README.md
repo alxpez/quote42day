@@ -1,2 +1,2 @@
-> If debugging is the process of removing software bugs, then programming must be the process of putting them in.
-  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/14)
+> Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.
+  #### —Albert Einstein [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/17)
