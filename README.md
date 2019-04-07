@@ -1,2 +1,2 @@
-> There are only two kinds of programming languages: those people always bitch about and those nobody uses.
-  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/28)
+> Beware of bugs in the above code; I have only proved it correct, not tried it. 
+  #### —Donald Knuth [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/27)
