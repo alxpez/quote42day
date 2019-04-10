@@ -1,2 +1,2 @@
-> Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.
-  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/20)
+> I don’t care if it works on your machine! We are not shipping your machine!
+  #### —Ovidiu Platon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/11)
