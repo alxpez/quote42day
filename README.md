@@ -1,2 +1,2 @@
-> I don’t care if it works on your machine! We are not shipping your machine!
-  #### —Ovidiu Platon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/11)
+> Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
+  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/4)
