@@ -1,2 +1,2 @@
-> If debugging is the process of removing software bugs, then programming must be the process of putting them in.
-  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/14)
+> I love deadlines. I like the whooshing sound they make as they fly by.
+  #### —Douglas Adams [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/19)
