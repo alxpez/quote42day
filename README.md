@@ -1,2 +1,2 @@
-> Perl – The only language that looks the same before and after RSA encryption.
-  #### —Keith Bostic [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/18)
+> I don’t care if it works on your machine! We are not shipping your machine!
+  #### —Ovidiu Platon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/11)
