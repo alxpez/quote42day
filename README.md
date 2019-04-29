@@ -1,2 +1,2 @@
-> Linux is only free if your time has no value.
-  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/32)
+> Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+  #### —Bill Gates [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/6)
