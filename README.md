@@ -1,2 +1,2 @@
-> Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
-  #### —Bill Gates [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/6)
+> The difference between theory and practice is that in theory, there is no difference between theory and practice.
+  #### —Richard Moore [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/30)
