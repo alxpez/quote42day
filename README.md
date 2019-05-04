@@ -1,2 +1,2 @@
-> Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
-  #### —Dick Brandon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/31)
+> Beware of bugs in the above code; I have only proved it correct, not tried it. 
+  #### —Donald Knuth [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/27)
