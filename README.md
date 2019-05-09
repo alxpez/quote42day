@@ -1,2 +1,2 @@
-> I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.
-  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/12)
+> No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+  #### —Mark Gibbs [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/36)
