@@ -1,2 +1,2 @@
-> Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.
-  #### —Fred Brooks [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/22)
+> Programming is like sex: one mistake and you’re providing support for a lifetime.
+  #### —Michael Sinz [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/29)
