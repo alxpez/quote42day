@@ -1,2 +1,2 @@
-> Programming is like sex: one mistake and you’re providing support for a lifetime.
-  #### —Michael Sinz [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/29)
+> On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”
+  #### —Charles Babbage [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/8)
