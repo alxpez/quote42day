@@ -1,2 +1,2 @@
-> In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.
-  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/39)
+> The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+  #### —Henry Petroski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/35)
