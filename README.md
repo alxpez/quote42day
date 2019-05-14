@@ -1,2 +1,2 @@
-> Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.
-  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/20)
+> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+  #### —Brian Kernighan [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/5)
