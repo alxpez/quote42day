@@ -1,2 +1,2 @@
-> If Java had true garbage collection, most programs would delete themselves upon execution.
-  #### —Robert Sewell [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/41)
+> Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.
+  #### —Albert Einstein [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/17)
