@@ -1,2 +1,2 @@
-> If debugging is the process of removing software bugs, then programming must be the process of putting them in.
-  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/14)
+> Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.
+  #### —Rich Cook [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/10)
