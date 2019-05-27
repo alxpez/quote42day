@@ -1,2 +1,2 @@
-> Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.
-  #### —Rich Cook [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/10)
+> On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”
+  #### —Charles Babbage [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/8)
