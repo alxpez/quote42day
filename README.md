@@ -1,2 +1,2 @@
-> I love deadlines. I like the whooshing sound they make as they fly by.
-  #### —Douglas Adams [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/19)
+> XML is like violence – if it doesn’t solve your problems, you are not using enough of it.
+  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/21)
