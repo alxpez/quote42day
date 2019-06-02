@@ -1,2 +1,2 @@
-> XML is like violence – if it doesn’t solve your problems, you are not using enough of it.
-  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/21)
+> Perl – The only language that looks the same before and after RSA encryption.
+  #### —Keith Bostic [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/18)
