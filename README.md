@@ -1,2 +1,2 @@
-> Perl – The only language that looks the same before and after RSA encryption.
-  #### —Keith Bostic [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/18)
+> C++ : Where friends have access to your private members.
+  #### —Gavin Russell Baker [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/40)
