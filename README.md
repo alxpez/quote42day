@@ -1,2 +1,2 @@
-> Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
-  #### —Dick Brandon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/31)
+> In theory, theory and practice are the same. In practice, they’re not.
+  #### —Yogi Berra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/16)
