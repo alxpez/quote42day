@@ -1,2 +1,2 @@
-> In theory, theory and practice are the same. In practice, they’re not.
-  #### —Yogi Berra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/16)
+> Walking on water and developing software from a specification are easy if both are frozen.
+  #### —Edward V Berard [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/2)
