@@ -1,2 +1,2 @@
-> Walking on water and developing software from a specification are easy if both are frozen.
-  #### —Edward V Berard [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/2)
+> The difference between theory and practice is that in theory, there is no difference between theory and practice.
+  #### —Richard Moore [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/30)
