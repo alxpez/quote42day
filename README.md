@@ -1,2 +1,2 @@
-> Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.
-  #### —Fred Brooks [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/22)
+> Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
+  #### —Dick Brandon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/31)
