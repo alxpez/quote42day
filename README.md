@@ -1,2 +1,2 @@
-> Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.
-  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/20)
+> QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
+  #### —Bill Sempf [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/44)
