@@ -1,2 +1,2 @@
-> In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.
-  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/39)
+> It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.
+  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/15)
