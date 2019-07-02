@@ -1,2 +1,2 @@
-> A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.
-  #### —Mitch Ratcliffe [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/13)
+> Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+  #### —Bill Gates [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/6)
