@@ -1,2 +1,2 @@
-> The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
-  #### —Henry Petroski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/35)
+> Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
+  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/4)
