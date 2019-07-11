@@ -1,2 +1,2 @@
-> Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
-  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/4)
+> QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
+  #### —Bill Sempf [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/44)
