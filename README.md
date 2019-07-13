@@ -1,2 +1,2 @@
-> There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors.
-  #### —Phil Karlton [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/43)
+> It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.
+  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/15)
