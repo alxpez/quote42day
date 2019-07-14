@@ -1,2 +1,2 @@
-> It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.
-  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/15)
+> I love deadlines. I like the whooshing sound they make as they fly by.
+  #### —Douglas Adams [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/19)
