@@ -1,2 +1,2 @@
-> I love deadlines. I like the whooshing sound they make as they fly by.
-  #### —Douglas Adams [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/19)
+> The difference between theory and practice is that in theory, there is no difference between theory and practice.
+  #### —Richard Moore [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/30)
