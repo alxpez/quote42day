@@ -1,2 +1,2 @@
-> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
-  #### —Alan Kay [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/38)
+> Beware of bugs in the above code; I have only proved it correct, not tried it. 
+  #### —Donald Knuth [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/27)
