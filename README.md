@@ -1,2 +1,2 @@
-> Beware of bugs in the above code; I have only proved it correct, not tried it. 
-  #### —Donald Knuth [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/27)
+> PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.
+  #### —Jon Ribbens [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/7)
