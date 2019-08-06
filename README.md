@@ -1,2 +1,2 @@
-> Linux is only free if your time has no value.
-  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/32)
+> I don’t care if it works on your machine! We are not shipping your machine!
+  #### —Ovidiu Platon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/11)
