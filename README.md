@@ -1,2 +1,2 @@
-> Beware of bugs in the above code; I have only proved it correct, not tried it. 
-  #### —Donald Knuth [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/27)
+> No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+  #### —Mark Gibbs [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/36)
