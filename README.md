@@ -1,2 +1,2 @@
-> No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
-  #### —Mark Gibbs [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/36)
+> On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”
+  #### —Charles Babbage [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/8)
