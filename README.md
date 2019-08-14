@@ -1,2 +1,2 @@
-> C++ : Where friends have access to your private members.
-  #### —Gavin Russell Baker [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/40)
+> I don’t care if it works on your machine! We are not shipping your machine!
+  #### —Ovidiu Platon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/11)
