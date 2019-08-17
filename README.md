@@ -1,2 +1,2 @@
-> PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.
-  #### —Jon Ribbens [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/7)
+> There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.
+  #### —Jeremy S. Anderson [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/34)
