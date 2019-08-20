@@ -1,2 +1,2 @@
-> Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.
-  #### —Fred Brooks [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/22)
+> Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+  #### —Bill Gates [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/6)
