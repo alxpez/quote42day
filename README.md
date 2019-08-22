@@ -1,2 +1,2 @@
-> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-  #### —Rick Osborne [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/9)
+> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+  #### —Alan Kay [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/38)
