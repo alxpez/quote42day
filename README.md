@@ -1,2 +1,2 @@
-> In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.
-  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/39)
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+  #### —Rick Osborne [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/9)
