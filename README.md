@@ -1,2 +1,2 @@
-> A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.
-  #### —Mitch Ratcliffe [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/13)
+> In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.
+  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/39)
