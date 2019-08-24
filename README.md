@@ -1,2 +1,2 @@
-> In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.
-  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/39)
+> Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
+  #### —Dick Brandon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/31)
