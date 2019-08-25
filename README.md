@@ -1,2 +1,2 @@
-> I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.
-  #### —Larry DeLuca [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/37)
+> The difference between theory and practice is that in theory, there is no difference between theory and practice.
+  #### —Richard Moore [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/30)
