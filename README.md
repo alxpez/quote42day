@@ -1,2 +1,2 @@
-> Walking on water and developing software from a specification are easy if both are frozen.
-  #### —Edward V Berard [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/2)
+> Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.
+  #### —Rich Cook [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/10)
