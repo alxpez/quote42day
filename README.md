@@ -1,2 +1,2 @@
-> In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.
-  #### —Jeff Atwood [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/42)
+> Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
+  #### —Dick Brandon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/31)
