@@ -1,2 +1,2 @@
-> Computers are like bikinis. They save people a lot of guesswork.
-  #### —Sam Ewing [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/33)
+> I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.
+  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/12)
