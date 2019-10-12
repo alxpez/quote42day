@@ -1,2 +1,2 @@
-> Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.
-  #### —Rich Cook [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/10)
+> In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.
+  #### —Jeff Atwood [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/42)
