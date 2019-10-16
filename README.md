@@ -1,2 +1,2 @@
-> There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors.
-  #### —Phil Karlton [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/43)
+> Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+  #### —Bill Gates [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/6)
