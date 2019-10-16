@@ -1,2 +1,2 @@
-> Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
-  #### —Bill Gates [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/6)
+> Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
+  #### —Dick Brandon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/31)
