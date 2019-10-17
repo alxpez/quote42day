@@ -1,2 +1,2 @@
-> XML is like violence – if it doesn’t solve your problems, you are not using enough of it.
-  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/21)
+> You should name a variable using the same care with which you name a first-born child.
+  #### —James O. Coplien [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/23)
