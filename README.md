@@ -1,2 +1,2 @@
-> Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
-  #### —Dick Brandon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/31)
+> QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
+  #### —Bill Sempf [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/44)
