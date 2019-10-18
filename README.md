@@ -1,2 +1,2 @@
-> You should name a variable using the same care with which you name a first-born child.
-  #### —James O. Coplien [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/23)
+> The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+  #### —Henry Petroski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/35)
