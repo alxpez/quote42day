@@ -1,2 +1,2 @@
-> The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
-  #### —Henry Petroski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/35)
+> Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.
+  #### —N.J. Rubenking [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/25)
