@@ -1,2 +1,2 @@
-> There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.
-  #### —Jeremy S. Anderson [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/34)
+> There are only two kinds of programming languages: those people always bitch about and those nobody uses.
+  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/28)
