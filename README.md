@@ -1,2 +1,2 @@
-> Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
-  #### —Dick Brandon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/31)
+> Walking on water and developing software from a specification are easy if both are frozen.
+  #### —Edward V Berard [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/2)
