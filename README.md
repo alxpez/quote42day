@@ -1,2 +1,2 @@
-> No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
-  #### —Mark Gibbs [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/36)
+> Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.
+  #### —Albert Einstein [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/17)
