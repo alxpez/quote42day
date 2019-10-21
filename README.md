@@ -1,2 +1,2 @@
-> Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.
-  #### —Albert Einstein [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/17)
+> Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.
+  #### —Fred Brooks [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/22)
