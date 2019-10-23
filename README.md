@@ -1,2 +1,2 @@
-> I love deadlines. I like the whooshing sound they make as they fly by.
-  #### —Douglas Adams [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/19)
+> I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.
+  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/12)
