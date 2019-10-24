@@ -1,2 +1,2 @@
-> In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.
-  #### —Jeff Atwood [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/42)
+> There are two ways of constructing a software design; one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+  #### —C. A. R. Hoare [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/24)
