@@ -1,2 +1,2 @@
-> Computers are like bikinis. They save people a lot of guesswork.
-  #### —Sam Ewing [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/33)
+> Walking on water and developing software from a specification are easy if both are frozen.
+  #### —Edward V Berard [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/2)
