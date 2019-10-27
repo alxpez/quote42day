@@ -1,2 +1,2 @@
-> If Java had true garbage collection, most programs would delete themselves upon execution.
-  #### —Robert Sewell [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/41)
+> Computers are like bikinis. They save people a lot of guesswork.
+  #### —Sam Ewing [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/33)
