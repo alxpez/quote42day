@@ -1,2 +1,2 @@
-> Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.
-  #### —Fred Brooks [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/22)
+> Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.
+  #### —Rich Cook [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/10)
