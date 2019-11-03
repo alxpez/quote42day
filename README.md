@@ -1,2 +1,2 @@
-> Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
-  #### —Dick Brandon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/31)
+> Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
+  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/4)
