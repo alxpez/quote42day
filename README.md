@@ -1,2 +1,2 @@
-> It always takes longer than you expect, even when you take into account Hofstadter’s Law.
-  #### —Hofstadter’s Law [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/3)
+> Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.
+  #### —Unknown [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/20)
