@@ -1,2 +1,2 @@
-> Walking on water and developing software from a specification are easy if both are frozen.
-  #### —Edward V Berard [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/2)
+> I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.
+  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/12)
