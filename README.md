@@ -1,2 +1,2 @@
-> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
-  #### —Alan Kay [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/38)
+> You should name a variable using the same care with which you name a first-born child.
+  #### —James O. Coplien [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/23)
