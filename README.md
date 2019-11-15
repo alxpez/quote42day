@@ -1,2 +1,2 @@
-> You should name a variable using the same care with which you name a first-born child.
-  #### —James O. Coplien [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/23)
+> Linux is only free if your time has no value.
+  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/32)
