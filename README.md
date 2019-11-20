@@ -1,2 +1,2 @@
-> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
-  #### —Alan Kay [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/38)
+> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+  #### —Brian Kernighan [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/5)
