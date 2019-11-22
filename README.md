@@ -1,2 +1,2 @@
-> It always takes longer than you expect, even when you take into account Hofstadter’s Law.
-  #### —Hofstadter’s Law [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/3)
+> No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+  #### —Mark Gibbs [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/36)
