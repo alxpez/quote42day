@@ -1,2 +1,2 @@
-> A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.
-  #### —Mitch Ratcliffe [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/13)
+> There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors.
+  #### —Phil Karlton [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/43)
