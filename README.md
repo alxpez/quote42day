@@ -1,2 +1,2 @@
-> There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors.
-  #### —Phil Karlton [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/43)
+> If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/14)
