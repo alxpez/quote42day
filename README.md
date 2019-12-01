@@ -1,2 +1,2 @@
-> Perl – The only language that looks the same before and after RSA encryption.
-  #### —Keith Bostic [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/18)
+> It always takes longer than you expect, even when you take into account Hofstadter’s Law.
+  #### —Hofstadter’s Law [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/3)
