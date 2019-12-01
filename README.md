@@ -1,2 +1,2 @@
-> It always takes longer than you expect, even when you take into account Hofstadter’s Law.
-  #### —Hofstadter’s Law [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/3)
+> It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration.
+  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/15)
