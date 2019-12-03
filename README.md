@@ -1,2 +1,2 @@
-> In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.
-  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/39)
+> There are two ways of constructing a software design; one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+  #### —C. A. R. Hoare [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/24)
