@@ -1,2 +1,2 @@
-> Programming is like sex: one mistake and you’re providing support for a lifetime.
-  #### —Michael Sinz [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/29)
+> PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals.
+  #### —Jon Ribbens [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/7)
