@@ -1,2 +1,2 @@
-> I love deadlines. I like the whooshing sound they make as they fly by.
-  #### —Douglas Adams [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/19)
+> Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
+  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/4)
