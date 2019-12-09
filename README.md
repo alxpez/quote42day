@@ -1,2 +1,2 @@
-> There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.
-  #### —Jeremy S. Anderson [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/34)
+> You should name a variable using the same care with which you name a first-born child.
+  #### —James O. Coplien [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/23)
