@@ -1,2 +1,2 @@
-> Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.
-  #### —Rich Cook [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/10)
+> The difference between theory and practice is that in theory, there is no difference between theory and practice.
+  #### —Richard Moore [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/30)
