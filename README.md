@@ -1,2 +1,2 @@
-> The difference between theory and practice is that in theory, there is no difference between theory and practice.
-  #### —Richard Moore [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/30)
+> There are only two hard things in Computer Science: cache invalidation, naming things and off-by-one errors.
+  #### —Phil Karlton [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/43)
