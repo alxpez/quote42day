@@ -1,2 +1,2 @@
-> I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS.
-  #### —Larry DeLuca [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/37)
+> No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+  #### —Mark Gibbs [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/36)
