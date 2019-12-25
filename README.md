@@ -1,2 +1,2 @@
-> Perl – The only language that looks the same before and after RSA encryption.
-  #### —Keith Bostic [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/18)
+> Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
+  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/4)
