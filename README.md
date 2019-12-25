@@ -1,2 +1,2 @@
-> Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems.
-  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/4)
+> You should name a variable using the same care with which you name a first-born child.
+  #### —James O. Coplien [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/23)
