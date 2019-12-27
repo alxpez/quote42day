@@ -1,2 +1,2 @@
-> I love deadlines. I like the whooshing sound they make as they fly by.
-  #### —Douglas Adams [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/19)
+> Linux is only free if your time has no value.
+  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/32)
