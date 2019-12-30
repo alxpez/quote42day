@@ -1,2 +1,2 @@
-> There are only two kinds of programming languages: those people always bitch about and those nobody uses.
-  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/28)
+> Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.
+  #### —N.J. Rubenking [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/25)
