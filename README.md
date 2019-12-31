@@ -1,2 +1,2 @@
-> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
-  #### —Brian Kernighan [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/5)
+> Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.
+  #### —Fred Brooks [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/22)
