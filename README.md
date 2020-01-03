@@ -1,2 +1,2 @@
-> If debugging is the process of removing software bugs, then programming must be the process of putting them in.
-  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/14)
+> It always takes longer than you expect, even when you take into account Hofstadter’s Law.
+  #### —Hofstadter’s Law [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/3)
