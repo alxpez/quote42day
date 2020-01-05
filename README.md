@@ -1,2 +1,2 @@
-> Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.
-  #### —N.J. Rubenking [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/25)
+> In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.
+  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/39)
