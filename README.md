@@ -1,2 +1,2 @@
-> Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.
-  #### —N.J. Rubenking [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/25)
+> The difference between theory and practice is that in theory, there is no difference between theory and practice.
+  #### —Richard Moore [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/30)
