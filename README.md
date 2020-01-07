@@ -1,2 +1,2 @@
-> The difference between theory and practice is that in theory, there is no difference between theory and practice.
-  #### —Richard Moore [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/30)
+> There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.
+  #### —Jeremy S. Anderson [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/34)
