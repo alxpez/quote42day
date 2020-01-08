@@ -1,2 +1,2 @@
-> There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.
-  #### —Jeremy S. Anderson [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/34)
+> If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+  #### —E. W. Dijkstra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/14)
