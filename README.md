@@ -1,2 +1,2 @@
-> Walking on water and developing software from a specification are easy if both are frozen.
-  #### —Edward V Berard [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/2)
+> Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.
+  #### —Fred Brooks [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/22)
