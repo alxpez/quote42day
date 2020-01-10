@@ -1,2 +1,2 @@
-> Walking on water and developing software from a specification are easy if both are frozen.
-  #### —Edward V Berard [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/2)
+> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+  #### —Alan Kay [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/38)
