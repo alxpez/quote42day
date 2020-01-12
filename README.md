@@ -1,2 +1,2 @@
-> Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.
-  #### —Rich Cook [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/10)
+> Beware of bugs in the above code; I have only proved it correct, not tried it. 
+  #### —Donald Knuth [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/27)
