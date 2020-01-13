@@ -1,2 +1,2 @@
-> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
-  #### —Brian Kernighan [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/5)
+> Programming is like sex: one mistake and you’re providing support for a lifetime.
+  #### —Michael Sinz [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/29)
