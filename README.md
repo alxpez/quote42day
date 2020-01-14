@@ -1,2 +1,2 @@
-> Programming is like sex: one mistake and you’re providing support for a lifetime.
-  #### —Michael Sinz [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/29)
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+  #### —Rick Osborne [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/9)
