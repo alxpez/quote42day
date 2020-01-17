@@ -1,2 +1,2 @@
-> In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.
-  #### —Jeff Atwood [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/42)
+> Walking on water and developing software from a specification are easy if both are frozen.
+  #### —Edward V Berard [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/2)
