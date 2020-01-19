@@ -1,2 +1,2 @@
-> Computers are like bikinis. They save people a lot of guesswork.
-  #### —Sam Ewing [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/33)
+> Linux is only free if your time has no value.
+  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/32)
