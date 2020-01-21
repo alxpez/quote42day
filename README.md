@@ -1,2 +1,2 @@
-> In theory, theory and practice are the same. In practice, they’re not.
-  #### —Yogi Berra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/16)
+> Linux is only free if your time has no value.
+  #### —Jamie Zawinski [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/32)
