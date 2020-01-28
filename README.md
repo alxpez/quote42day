@@ -1,2 +1,2 @@
-> I don’t care if it works on your machine! We are not shipping your machine!
-  #### —Ovidiu Platon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/11)
+> In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.
+  #### —Jeff Atwood [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/42)
