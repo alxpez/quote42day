@@ -1,2 +1,2 @@
-> There are only two kinds of programming languages: those people always bitch about and those nobody uses.
-  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/28)
+> I don’t care if it works on your machine! We are not shipping your machine!
+  #### —Ovidiu Platon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/11)
