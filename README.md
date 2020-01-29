@@ -1,2 +1,2 @@
-> Programming is like sex: one mistake and you’re providing support for a lifetime.
-  #### —Michael Sinz [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/29)
+> In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.
+  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/39)
