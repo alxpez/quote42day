@@ -1,2 +1,2 @@
-> In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg.
-  #### —Bjarne Stroustrup [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/39)
+> QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
+  #### —Bill Sempf [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/44)
