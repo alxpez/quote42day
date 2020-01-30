@@ -1,2 +1,2 @@
-> QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
-  #### —Bill Sempf [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/44)
+> There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.
+  #### —Jeremy S. Anderson [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/34)
