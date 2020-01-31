@@ -1,2 +1,2 @@
-> There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence.
-  #### —Jeremy S. Anderson [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/34)
+> In theory, theory and practice are the same. In practice, they’re not.
+  #### —Yogi Berra [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/16)
