@@ -1,2 +1,2 @@
-> Perl – The only language that looks the same before and after RSA encryption.
-  #### —Keith Bostic [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/18)
+> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+  #### —Alan Kay [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/38)
