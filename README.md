@@ -1,2 +1,2 @@
-> Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
-  #### —Dick Brandon [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/31)
+> You should name a variable using the same care with which you name a first-born child.
+  #### —James O. Coplien [:scroll:](http://quotes.stormconsultancy.co.uk/quotes/23)
